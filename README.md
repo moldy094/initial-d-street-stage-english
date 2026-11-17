@@ -17,7 +17,7 @@ no game files are in this repo. the patch only works on that exact ISO.
 use any xdelta patcher, delta patcher, xdelta ui and xdelta3 all work.
 
 ```
-xdelta3 -d -s "Initial D - Street Stage (Japan, Asia).iso" "Initial D Street Stage (English Patched).xdelta" "Initial D Street Stage (English Patched).iso"
+xdelta3 -d -s "Initial D - Street Stage (Japan, Asia).iso" "Initial.D.Street.Stage.English.Patched.xdelta" "Initial D Street Stage (English Patched).iso"
 ```
 
 patched ISO SHA-256 `3abe75eb9b870d52d15e1294565f5902dc5e115a79927efffb799cb9c4967042`
