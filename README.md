@@ -4,6 +4,13 @@ english fan translation of initial d street stage for the PSP (ULJM-05093).
 
 dialogue, menus, cards, the project d homepage and the in game graphics are all in english. the japanese voice acting is kept.
 
+## screenshots
+
+| | |
+|---|---|
+| ![boot screen](screenshots/boot.png) | ![driver select](screenshots/driver_select.png) |
+| ![game mode menu](screenshots/mode_menu.png) | ![card text](screenshots/card_text.png) |
+
 ## what you need
 
 - your own dump of the japanese game, `Initial D - Street Stage (Japan, Asia).iso`
